@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="profile_image">profile_image</string>
+    <string name="profile">PROFILE</string>
+    <string name="sign_in">Sign in</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">todo1</string>
+    <string name="todo3">todo3</string>
+    <string name="todo2">todo2</string>
+
+    <string name="Hello">Hello User!</string>
+    <string name="msg">Get what U want by Signing Up with FitUR</string>
+    <string name="gsn">get started now</string>
+    <string name="Register">Register</string>
+    <string name="Name">Name</string>
+    <string name="DOB">DOB</string>
+    <string name="Date">25-07-2002</string>
+    <string name="Email">E-mail</string>
+    <string name="mail">123@gmail.com</string>
+    <string name="mobile">Mobile</string>
+    <string name="Nam">Not a Memeber yet? Register</string>
+    <string name="pn">Profile Name</string>
+    <string name="Nxt">Next</string>
+    <string name="taw">More</string>
+    <string name="trow">Try other ways</string>
+    <string name="ltotv">Login through OTP</string>
+    <string name="enmobnotv">Enter Your Registered Mobile No:</string>
+    <string name="demomob">99********</string>
+    <string name="otp">OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+</resources>
